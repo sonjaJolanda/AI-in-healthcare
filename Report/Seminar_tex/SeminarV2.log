@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  21 APR 2024 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.21)  21 APR 2024 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sonja/vsc-projects/AI-in-healthcare/Report/SeminarV2.tex
-(c:/Users/sonja/vsc-projects/AI-in-healthcare/Report/SeminarV2.tex
+**c:/Users/sonja/vsc-projects/AI-in-healthcare/Report/Seminar_tex/SeminarV2.tex
+(c:/Users/sonja/vsc-projects/AI-in-healthcare/Report/Seminar_tex/SeminarV2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (./SeminarV2.cls
@@ -162,13 +162,13 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+) (./chapters/abstract.tex) (./chapters/page_format_and_margins.tex) [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-File: Seminar_tex/any_question.eps Graphic file (type eps)
- <Seminar_tex/any_question.eps> [2] [3
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./chapters/mathematics.tex) (./chapters/tables_and_figures.tex
+File: any_question.eps Graphic file (type eps)
+ <any_question.eps>) [2] [3
 Non-PDF special ignored!
-<special> PSfile="Seminar_tex/any_question.eps" llx=0 lly=231 urx=595 ury=5...
+<special> PSfile="any_question.eps" llx=0 lly=231 urx=595 ury=561 rwi=2975 
 ] (./SeminarV2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -176,15 +176,15 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2264 strings out of 474104
- 32531 string characters out of 5747502
- 1936496 words of memory out of 5000000
- 24627 multiletter control sequences out of 15000+600000
+ 2295 strings out of 474104
+ 33516 string characters out of 5747502
+ 1937496 words of memory out of 5000000
+ 24647 multiletter control sequences out of 15000+600000
  569178 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,445b,298s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,457b,298s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb>
-Output written on SeminarV2.pdf (3 pages, 205005 bytes).
+Output written on SeminarV2.pdf (3 pages, 203364 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
